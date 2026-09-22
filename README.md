@@ -25,6 +25,10 @@ O dashboard tem como objetivo auxiliar no acompanhamento da operação logístic
 - DAX
 - Excel
 
+  ## 📥 Download do Dashboard
+
+[⬇️ Baixar o arquivo Power BI (.pbix)](./dashboard/RelatorioLogistica.pbix)
+
   ### Visão geral
 
 ![Dashboard de Logística](imagens/dashboard-logistica.png)
