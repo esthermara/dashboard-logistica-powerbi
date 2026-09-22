@@ -49,20 +49,6 @@ O dashboard permite analisar o desempenho logístico através de diferentes dime
 - ocorrência;
 - motivo da ocorrência.
 
-## 📈 Dashboard
-
-### Visão geral
-
-![Dashboard de Logística](imagens/dashboard-logistica.png)
-
-### Análise de entregas
-
-![Análise de Entregas](imagens/entregas.png)
-
-### Análise de ocorrências
-
-![Análise de Ocorrências](imagens/ocorrencias.png)
-
 ## 🧠 Conhecimentos aplicados
 
 Durante o desenvolvimento foram aplicados conhecimentos de:
