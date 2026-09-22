@@ -25,6 +25,10 @@ O dashboard tem como objetivo auxiliar no acompanhamento da operação logístic
 - DAX
 - Excel
 
+  ### Visão geral
+
+![Dashboard de Logística](imagens/dashboard-logistica.png)
+
 ## 📊 Principais indicadores
 
 - Total de pedidos
